@@ -1,0 +1,10 @@
+.table-container {
+    display: flex;
+    margin-right: 20px; /* Adjust the margin value to control the space between tables */
+  }
+  
+  .table1,
+  .table2 {
+    border-collapse: collapse;
+    width: 50%;
+  }
